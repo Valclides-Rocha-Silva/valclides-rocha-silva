@@ -48,8 +48,8 @@ Me chamo Valclides Rocha Silva, tenho 25 anos e sou natural do Guarujá São Pau
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
@@ -69,6 +69,14 @@ Me chamo Valclides Rocha Silva, tenho 25 anos e sou natural do Guarujá São Pau
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Power Bi" 
+    title="Power Bi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/simpleanalytics/FF4F64" width="40" 
 />
 
 <br/>
